@@ -1,2 +1,2 @@
 # My-Mariadb-Server
-My Mariadb Server for logging
+Manual Linux server setup with MariaDB, Cron, and logging architecture on Debian - Logs from my other projects
